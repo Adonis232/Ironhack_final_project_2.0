@@ -1,0 +1,42 @@
+position,age,nationality
+Goalkeeper,23.0,Poland
+Goalkeeper,27.0,Italy
+Goalkeeper,28.0,Poland
+Centre-Back,27.0,Belgium
+Centre-Back,28.0,Germany
+Centre-Back,27.0,France
+Centre-Back,26.0,Switzerland
+Left-Back,27.0,Spain
+Left-Back,23.0,England
+Right-Back,30.0,France
+Right-Back,21.0,England
+Right-Back,18.0,Spain
+Defensive Midfield,29.0,France
+Defensive Midfield,22.0,France
+Defensive Midfield,30.0,Sweden
+Defensive Midfield,21.0,Ghana
+Defensive Midfield,18.0,England
+Defensive Midfield,20.0,China
+Central Midfield,21.0,England
+Central Midfield,28.0,Spain
+Central Midfield,19.0,England
+Central Midfield,31.0,Spain
+Central Midfield,22.0,Wales
+Central Midfield,27.0,France
+Central Midfield,18.0,Sweden
+Central Midfield,16.0,United States
+Attacking Midfield,24.0,Germany
+Attacking Midfield,32.0,Czech Republic
+Attacking Midfield,20.0,Germany
+Left Winger,17.0,Nigeria
+Right Winger,24.0,England
+Right Winger,21.0,Costa Rica
+Right Winger,20.0,Japan
+Right Winger,20.0,Brazil
+Right Winger,17.0,Germany
+Second Striker,28.0,Germany
+Centre-Forward,26.0,France
+Centre-Forward,25.0,Denmark
+Centre-Forward,27.0,"Korea, South"
+Centre-Forward,20.0,France
+Centre-Forward,17.0,England

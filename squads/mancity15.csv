@@ -1,0 +1,37 @@
+position,age,nationality
+Goalkeeper,27,England
+Goalkeeper,32,Argentina
+Goalkeeper,36,England
+Centre-Back,28,Belgium
+Centre-Back,23,France
+Centre-Back,21,Serbia
+Centre-Back,19,Netherlands
+Centre-Back,33,Argentina
+Centre-Back,23,Belgium
+Centre-Back,19,Belgium
+Left-Back,28,France
+Left-Back,28,Serbia
+Left-Back,17,Spain
+Right-Back,28,Spain
+Right-Back,29,Argentina
+Right-Back,26,England
+Right-Back,31,France
+Defensive Midfield,29,Brazil
+Defensive Midfield,26,Brazil
+Defensive Midfield,21,Argentina
+Defensive Midfield,19,England
+Central Midfield,31,Cote d'Ivoire
+Central Midfield,28,England
+Central Midfield,36,England
+Left Midfield,25,England
+Attacking Midfield,28,Spain
+Attacking Midfield,27,France
+Attacking Midfield,19,Kosovo
+Attacking Midfield,18,Spain
+Attacking Midfield,17,Kosovo
+Centre-Forward,26,Argentina
+Centre-Forward,24,Montenegro
+Centre-Forward,28,Bosnia-Herzegovina
+Centre-Forward,25,Cote d'Ivoire
+Centre-Forward,22,Sweden
+Centre-Forward,17,France
