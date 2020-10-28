@@ -1,6 +1,8 @@
-# Premier_legue_analysis
-
 # Ironhack_final_project
+![](https://www.mundodeportivo.com/r/GODO/MD/p7/Futbol/Imagenes/2020/05/31/Recortada/9c6eeac1fa434362b57c86c83d36c1a6-kN8--980x554@MundoDeportivo-Web.jpg)
+
+
+## Premier_league_analysis
 
 
 
@@ -21,20 +23,28 @@ On this project Im going to analize the EPL and try to see the insights obut wha
 
 
 
-## Technologies used:
+### Technologies used:
+![](https://www.master-data-scientist.com/wp-content/uploads/2018/05/diferencias-entre-bigdata-datascience-587x440.jpg)
 
 -Pandas
 -Numpy
 -Beautiful Soup
--Tableau
 -Matplotlib
 -Seaborn
+-Collections
+-Datetime
+-Itertools
+-Ipython
+-Glob
+-Flourish
 
 
 
 On this project we used various data resources, mainly I used data scrapped from https://fbref.com, thanks to Octavio to provide it when I needed it.
 
 For the odds and bet scores I used the data provided by https://www.football-data.co.uk/englandm.php
+
+Total expenses and and team balance are scrapped from  
 
 
 All visualizations will be posted on my Tableau Public profile
