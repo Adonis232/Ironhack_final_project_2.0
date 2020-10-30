@@ -38,7 +38,7 @@ Due to issues with Tableau I had to change it and use [Flourish] ()to do the vis
 -Itertools
 -Ipython
 -Glob
--Flourish
+-Requests
 
 
 
@@ -48,5 +48,11 @@ For the odds and bet scores I used the data provided by https://www.football-dat
 
 Total expenses and and team balance are scrapped from [Transfermarkt](https://www.transfermarkt.com/premier-league/einnahmenausgaben/wettbewerb/GB1/plus/0?ids=a&sa=&saison_id=2000&saison_id_bis=2019&nat=&pos=&altersklasse=&w_s=&leihe=&intern=0)
 
+## NFL QB comparation
 
-All visualizations will be posted on my [Flourish]() profile
+Data scrapped from [Pro-football-reference](https://www.pro-football-reference.com/years/2019/passing.htm)
+
+The tutorial to make the radar I found it here (https://python-graph-gallery.com/390-basic-radar-chart/) and of course YouTube
+
+
+
