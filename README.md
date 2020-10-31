@@ -54,4 +54,9 @@ Data scrapped from [Pro-football-reference](https://www.pro-football-reference.c
 The tutorial to make the radar I found it here (https://python-graph-gallery.com/390-basic-radar-chart/) and of course YouTube
 
 
+## Next steps...
 
+Next stops woulb be to create a pipeline so we could get the daa and the analysis done automatically just by indicating position, and salary cap 
+for our NFL players.
+
+For the Premier League I would have to create the dashboard to compare the data from each season, team, players... And I would have to create a scrapper to get salaries to compare perfomance/salary. 
