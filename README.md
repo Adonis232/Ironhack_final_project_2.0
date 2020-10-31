@@ -16,9 +16,6 @@ Premier League visualization and analisys
 
 
 This is my final project for [Ironhack](https://www.ironhack.com/es) ,I'm going to analize the EPL and make a document with all data from historical data, just as a starting point to use at the end ofeach season to decide on haow to plan the squads and to see how some events affect team performances (new manager, signings, major injuries...)
-This document is meant to be sent to a GM, there are a lot of data to add to it.
-Due to issues with Tableau I had to change it and use [Flourish] ()to do the visualizations you can see them on my [account]()
-
 
 
 
@@ -26,19 +23,18 @@ Due to issues with Tableau I had to change it and use [Flourish] ()to do the vis
 
 
 ### Technologies used:
-![](https://resources.premierleague.com/premierleague/photo/2020/09/11/3052bf5d-3e41-4ead-bdd9-16259804e3d9/PL_ATHEM_COVER_2020_1C_WEB_BANNER_HD_RGB.jpg)
 
--Pandas
--Numpy
--Beautiful Soup
--Matplotlib
--Seaborn
--Collections
--Datetime
--Itertools
--Ipython
--Glob
--Requests
+    -Pandas
+    -Numpy
+    -Beautiful Soup
+    -Matplotlib
+    -Seaborn
+    -Collections
+    -Datetime
+    -Itertools
+    -Ipython
+    -Glob
+    -Requests
 
 
 
@@ -48,7 +44,7 @@ For the odds and bet scores I used the data provided by https://www.football-dat
 
 Total expenses and and team balance are scrapped from [Transfermarkt](https://www.transfermarkt.com/premier-league/einnahmenausgaben/wettbewerb/GB1/plus/0?ids=a&sa=&saison_id=2000&saison_id_bis=2019&nat=&pos=&altersklasse=&w_s=&leihe=&intern=0)
 
-## NFL QB comparation
+## NFL QB comparasion
 
 Data scrapped from [Pro-football-reference](https://www.pro-football-reference.com/years/2019/passing.htm)
 
