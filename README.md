@@ -1,8 +1,8 @@
-# Ironhack_final_project
+# Ironhack DA Part-time final project
 ![](https://www.mundodeportivo.com/r/GODO/MD/p7/Futbol/Imagenes/2020/05/31/Recortada/9c6eeac1fa434362b57c86c83d36c1a6-kN8--980x554@MundoDeportivo-Web.jpg)
 
 
-## Premier_league_analysis
+## Premier League and NFL QB stats analysis
 
 
 
@@ -37,6 +37,9 @@ This is my final project for [Ironhack](https://www.ironhack.com/es) ,I'm going 
     -Requests
 
 
+
+
+## Data sources:
 
 On this project we used various data resources, mainly I used data scrapped from https://fbref.com, thanks to Octavio to provide it when I needed it.
 
